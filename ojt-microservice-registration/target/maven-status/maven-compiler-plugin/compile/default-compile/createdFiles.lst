@@ -1,0 +1,11 @@
+com\example\microserviceRegistration\model\UserList.class
+com\example\microserviceRegistration\service\UserService.class
+com\example\microserviceRegistration\controller\RestFormController.class
+com\example\microserviceRegistration\advice\UserExceptions.class
+com\example\microserviceRegistration\OjtMicroserviceRegistrationApplication.class
+com\example\microserviceRegistration\exception\ExceptionResponse.class
+com\example\microserviceRegistration\service\UserServiceImpl.class
+com\example\microserviceRegistration\controller\BootController.class
+com\example\microserviceRegistration\repository\RegisterRepository.class
+com\example\microserviceRegistration\exception\NoUserFoundException.class
+com\example\microserviceRegistration\exception\InvalidUsernamePassword.class
